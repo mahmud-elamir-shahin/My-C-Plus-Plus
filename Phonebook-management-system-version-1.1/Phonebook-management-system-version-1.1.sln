@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Phonebook-management-system-version-1.1", "Phonebook-management-system-version-1.1.vcxproj", "{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Debug|x64.ActiveCfg = Debug|x64
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Debug|x64.Build.0 = Debug|x64
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Debug|x86.Build.0 = Debug|Win32
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Release|x64.ActiveCfg = Release|x64
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Release|x64.Build.0 = Release|x64
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Release|x86.ActiveCfg = Release|Win32
+		{7A3EBE44-56A8-4EC2-B701-097CE6A597A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C8DE19-A0DA-4BF6-907A-087C692E46CD}
+	EndGlobalSection
+EndGlobal

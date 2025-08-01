@@ -1,0 +1,24 @@
+﻿  Utility-Library.cpp
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsUtil.h(65,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Utility-Library.cpp')
+  
+C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\clsUtil.h(71,1): warning C4715: 'clsUtil::GetRandomCharacter': not all control paths return a value
+  Utility-Library.vcxproj -> C:\Users\mahmu\OneDrive\Desktop\C++\Utility-Library\x64\Debug\Utility-Library.exe

@@ -1,0 +1,12 @@
+﻿  Interactive-math-game-version1.2.cpp
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(120,17): warning C4566: character represented by universal-character-name '\u23F0' cannot be represented in the current code page (1252)
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(127,19): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(127,19): warning C4244:         with
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(127,19): warning C4244:         [
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(127,19): warning C4244:             _Rep=__int64
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(127,19): warning C4244:         ]
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(134,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(140,17): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(145,17): warning C4566: character represented by universal-character-name '\U0001F525' cannot be represented in the current code page (1252)
+C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\Interactive-math-game-version1.2.cpp(203,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Interactive-math-game-version1.2.vcxproj -> C:\Users\mahmu\OneDrive\Desktop\C++\Interactive-math-game-version1.2\x64\Debug\Interactive-math-game-version1.2.exe

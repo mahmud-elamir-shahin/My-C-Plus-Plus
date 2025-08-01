@@ -1,0 +1,9 @@
+=============================
+Questions: 3
+Level: Hard
+Operation: x
+Score: 0/3
+Time: 8 seconds
+Result: Fail :-(
+=============================
+

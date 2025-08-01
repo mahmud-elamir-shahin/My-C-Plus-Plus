@@ -1,0 +1,5 @@
+﻿  Simple-Banke-System.cpp
+C:\Users\mahmu\OneDrive\Desktop\C++\Simple-Banke-System\Simple-Banke-System.cpp(33,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mahmu\OneDrive\Desktop\C++\Simple-Banke-System\Simple-Banke-System.cpp(356,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\mahmu\OneDrive\Desktop\C++\Simple-Banke-System\Simple-Banke-System.cpp(393,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Simple-Banke-System.vcxproj -> C:\Users\mahmu\OneDrive\Desktop\C++\Simple-Banke-System\x64\Debug\Simple-Banke-System.exe
