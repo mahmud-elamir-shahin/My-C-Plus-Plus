@@ -1,0 +1,31 @@
+# Ignore build folders in all subprojects
+**/Debug/
+**/Release/
+**/x64/
+**/ipch/
+
+# Ignore Visual Studio folders
+**/.vs/
+
+# Ignore Visual Studio user-specific and temp files
+**/*.suo
+**/*.user
+**/*.VC.db
+**/*.VC.opendb
+**/*.log
+**/*.obj
+**/*.pch
+**/*.pdb
+**/*.idb
+**/*.ilk
+**/*.tlog
+**/*.cache
+**/*.tmp
+
+# Ignore binaries
+**/*.exe
+**/*.dll
+
+# Optional: Ignore backup or generated files
+**/*.bak
+**/*.class
