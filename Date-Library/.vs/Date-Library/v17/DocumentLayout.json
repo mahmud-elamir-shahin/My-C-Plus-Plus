@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "clsDate.h",
               "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Date-Library\\clsDate.h",
               "RelativeToolTip": "clsDate.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAEAAAAAAAAAAAAAFICAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-17T20:46:24.151Z",
               "EditorCaption": ""
@@ -45,9 +41,10 @@
               "RelativeDocumentMoniker": "Date-Library.cpp",
               "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Date-Library\\Date-Library.cpp",
               "RelativeToolTip": "Date-Library.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T20:45:35.551Z"
+              "WhenOpened": "2025-07-17T20:45:35.551Z",
+              "EditorCaption": ""
             }
           ]
         }

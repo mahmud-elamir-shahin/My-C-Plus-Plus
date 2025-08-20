@@ -31,7 +31,7 @@ int main()
         clsDate::CalculateMyAgeInDays(  clsDate(6, 11, 1977) );*/
         //You can try any method at your own..
 
-
+    Date1.PrintYearCalendar();
     system("pause>0");
     return 0;
 };

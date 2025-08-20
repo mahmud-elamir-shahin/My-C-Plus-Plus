@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder\\Desktop\\Medical-Information-System\\",
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|D:\\New folder\\Desktop\\Medical-Information-System\\Medical Information System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Medical Information System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:Medical Information System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|D:\\New folder\\Desktop\\Medical-Information-System\\UtilityFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:UtilityFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|D:\\New folder\\Desktop\\Medical-Information-System\\UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|D:\\New folder\\Desktop\\Medical-Information-System\\Receptionist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:Receptionist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|D:\\New folder\\Desktop\\Medical-Information-System\\ClinicManagementSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\ClinicManagementSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:ClinicManagementSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|D:\\New folder\\Desktop\\Medical-Information-System\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\UtilityFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:UtilityFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:UserManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Receptionist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:Receptionist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B31D45E3-5F61-4F1F-BCB1-5C6124AEC20D}|Medical Information System.vcxproj|solutionrelative:Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,23 +38,24 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ClinicManagementSystem.h",
-              "DocumentMoniker": "D:\\New folder\\Desktop\\Medical-Information-System\\ClinicManagementSystem.h",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\ClinicManagementSystem.h",
               "RelativeDocumentMoniker": "ClinicManagementSystem.h",
-              "ToolTip": "D:\\New folder\\Desktop\\Medical-Information-System\\ClinicManagementSystem.h",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\ClinicManagementSystem.h",
               "RelativeToolTip": "ClinicManagementSystem.h",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACECAAAAAAAAAAAAAC8CAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-16T23:05:56.334Z"
+              "WhenOpened": "2025-07-16T23:05:56.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UtilityFunctions.h",
-              "DocumentMoniker": "D:\\New folder\\Desktop\\Medical-Information-System\\UtilityFunctions.h",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\UtilityFunctions.h",
               "RelativeDocumentMoniker": "UtilityFunctions.h",
-              "ToolTip": "D:\\New folder\\Desktop\\Medical-Information-System\\UtilityFunctions.h",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\UtilityFunctions.h",
               "RelativeToolTip": "UtilityFunctions.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -64,22 +65,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Medical Information System.cpp",
-              "DocumentMoniker": "D:\\New folder\\Desktop\\Medical-Information-System\\Medical Information System.cpp",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Medical Information System.cpp",
               "RelativeDocumentMoniker": "Medical Information System.cpp",
-              "ToolTip": "D:\\New folder\\Desktop\\Medical-Information-System\\Medical Information System.cpp",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Medical Information System.cpp",
               "RelativeToolTip": "Medical Information System.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-26T15:35:03.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserManager.h",
-              "DocumentMoniker": "D:\\New folder\\Desktop\\Medical-Information-System\\UserManager.h",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\UserManager.h",
               "RelativeDocumentMoniker": "UserManager.h",
-              "ToolTip": "D:\\New folder\\Desktop\\Medical-Information-System\\UserManager.h",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\UserManager.h",
               "RelativeToolTip": "UserManager.h",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -87,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Receptionist.h",
-              "DocumentMoniker": "D:\\New folder\\Desktop\\Medical-Information-System\\Receptionist.h",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Receptionist.h",
               "RelativeDocumentMoniker": "Receptionist.h",
-              "ToolTip": "D:\\New folder\\Desktop\\Medical-Information-System\\Receptionist.h",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Receptionist.h",
               "RelativeToolTip": "Receptionist.h",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -101,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Admin.h",
-              "DocumentMoniker": "D:\\New folder\\Desktop\\Medical-Information-System\\Admin.h",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Admin.h",
               "RelativeDocumentMoniker": "Admin.h",
-              "ToolTip": "D:\\New folder\\Desktop\\Medical-Information-System\\Admin.h",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\C\u002B\u002B\\Medical-Information-System\\Admin.h",
               "RelativeToolTip": "Admin.h",
               "ViewState": "AgIAAGkAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

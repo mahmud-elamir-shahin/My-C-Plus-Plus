@@ -346,5 +346,13 @@ public:
         in.close();
     }
 
+    void swap(DNode<T>* a, DNode<T>* b) {
+        if (!a || !b) return; 
+        T temp = a->data;
+        a->data = b->data;
+        b->data = temp;
+    }
+
+
 };
 

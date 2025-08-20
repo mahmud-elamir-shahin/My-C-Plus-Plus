@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="clsPrintDataRecursiveTemplates.cpp" />
     <ClCompile Include="clsSortingAlgorithm.cpp" />
     <ClCompile Include="Data-Structers-And-Algorithms-classes.cpp" />
   </ItemGroup>
@@ -133,11 +134,13 @@
     <ClInclude Include="clsDblLinkedList.h" />
     <ClInclude Include="clsDoublyLinkedList.h" />
     <ClInclude Include="clsDynamicArray.h" />
+    <ClInclude Include="clsDynamicQueue.h" />
     <ClInclude Include="clsMyQueue.h" />
     <ClInclude Include="clsMyQueueArr.h" />
     <ClInclude Include="clsMyStack.h" />
     <ClInclude Include="clsMyStackArr .h" />
     <ClInclude Include="clsMyString.h" />
+    <ClInclude Include="clsPrintDataRecursiveTemplates.h" />
     <ClInclude Include="clsQueueLine.h" />
     <ClInclude Include="clsQueueUsingArray.h" />
     <ClInclude Include="clsQueueUsingLinkedList.h" />

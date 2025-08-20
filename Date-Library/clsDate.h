@@ -8,7 +8,7 @@
 
 using namespace std;
 
-class clsDate
+class clsDate 
 {
 
 private:
